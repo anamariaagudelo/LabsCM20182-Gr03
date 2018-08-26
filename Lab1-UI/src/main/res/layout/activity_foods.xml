@@ -48,20 +48,14 @@
                     android:text="@string/OPEN" />
 
                 <Button
-                    android:id="@+id/button_save"
+                    android:id="@+id/button_saveF"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_vertical"
                     android:layout_weight="1"
-                    android:text="@string/SAVE" />
+                    android:text="@string/SAVE"
+                    android:onClick="onClick"/>
 
-                <Button
-                    android:id="@+id/button_clear"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_vertical"
-                    android:layout_weight="1"
-                    android:text="@string/CLEAR" />
             </LinearLayout>
         </LinearLayout>
         <LinearLayout

@@ -14,9 +14,9 @@
         android:orientation="vertical">
 
         <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_weight="0.5">
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5">
 
 
             <ImageView
@@ -26,32 +26,25 @@
                 android:layout_gravity="end|bottom"
                 android:layout_weight="1"
                 android:src="@mipmap/ic_launcher" />
-             <Button
+            <Button
                 android:id="@+id/buttonD_select"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:layout_weight="1"
-                 android:onClick="onClickImageD"
+                android:onClick="onClickImageD"
                 android:text="@string/DRINK_OPEN" />
 
             <Button
-                android:id="@+id/button_save"
+                android:id="@+id/button_saveD"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:layout_weight="1"
-                android:text="@string/DRINK_SAVE" />
+                android:text="@string/DRINK_SAVE"
+                android:onClick="onClick"/>
 
-            <Button
-                android:id="@+id/button_clear"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_vertical"
-                android:layout_weight="1"
-                android:text="@string/DRINK_CLEAR" />
-
-    </LinearLayout>
+        </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
