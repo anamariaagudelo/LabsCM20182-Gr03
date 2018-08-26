@@ -18,5 +18,14 @@
     <string name="CheckBoxMorning">Mañana</string>
     <string name="CheckBoxAfternoon">Tarde</string>
     <string name="CheckBoxNight">Noche</string>
+    <string name="Clear">Limpiar</string>
+    <string name="Out">Salir</string>
+    <string name="Menu">Menu</string>
+    <string name="DRINK_OPEN">OPEN</string>
+    <string name="DRINK_SAVE">SAVE</string>
+    <string name="DRINK_CLEAR">CLEAR</string>
+    <string name="TextVNameD">Nombre</string>
+    <string name="TextVPriceD">Precio</string>
+    <string name="TextVIngredientsD">Ingredientes</string>
 
 </resources>

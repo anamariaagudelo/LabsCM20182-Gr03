@@ -53,8 +53,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_vertical"
                     android:layout_weight="1"
-                    android:text="@string/SAVE"
-                    android:onClick="onClick"/>
+                    android:text="@string/SAVE" />
 
                 <Button
                     android:id="@+id/button_clear"
@@ -305,7 +304,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="0.31">
+            android:layout_weight="0.31"
             android:orientation="horizontal">
 
             <LinearLayout
