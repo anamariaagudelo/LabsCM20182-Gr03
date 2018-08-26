@@ -2,7 +2,21 @@
     <string name="app_name">LabsCM20182</string>
     <string name="INICIO">Inicio</string>
     <string name="IconoSplash_Screen">IconSplash_Screen</string>
-    <string name="Bebidas">NameDrinks</string>
-    <string name="Comidas">NameFood</string>
+    <string name="OPEN">Open</string>
+    <string name="SAVE">Save</string>
+    <string name="CLEAR">Clear</string>
+    <string name="TextVName">Nombre</string>
+    <string name="TextVScheduler">Horario</string>
+    <string name="TextVType">Tipo</string>
+    <string name="TextVTime">Tiempo</string>
+    <string name="TextVPrice">Precio</string>
+    <string name="TextVIngredients">Ingredientes</string>
+    <string name="TextVStarters">Entrada</string>
+    <string name="Maindish">Plato fuerte</string>
+    <string name="buttonFood">Comidas</string>
+    <string name="buttonDrinks">Bebidas</string>
+    <string name="CheckBoxMorning">Mañana</string>
+    <string name="CheckBoxAfternoon">Tarde</string>
+    <string name="CheckBoxNight">Noche</string>
 
 </resources>
