@@ -6,9 +6,9 @@
     <string name="IconoSplashSreen">SplashScreen</string>
     <string name="INICIO">Inicio</string>
     <string name="IconoSplash_Screen">IconSplash_Screen</string>
-    <string name="OPEN">Open</string>
-    <string name="SAVE">Save</string>
-    <string name="CLEAR">Clear</string>
+    <string name="OPEN">Abrir</string>
+    <string name="SAVE">Guardar</string>
+    <string name="CLEAR">Limpiar</string>
     <string name="TextVName">Nombre</string>
     <string name="TextVScheduler">Horario</string>
     <string name="TextVType">Tipo</string>
@@ -25,9 +25,9 @@
     <string name="Clear">Limpiar</string>
     <string name="Out">Salir</string>
     <string name="Menu">Menu</string>
-    <string name="DRINK_OPEN">OPEN</string>
-    <string name="DRINK_SAVE">SAVE</string>
-    <string name="DRINK_CLEAR">CLEAR</string>
+    <string name="DRINK_OPEN">Abrir</string>
+    <string name="DRINK_SAVE">Guardar</string>
+    <string name="DRINK_CLEAR">Limpiar</string>
     <string name="TextVNameD">Nombre</string>
     <string name="TextVPriceD">Precio</string>
     <string name="TextVIngredientsD">Ingredientes</string>

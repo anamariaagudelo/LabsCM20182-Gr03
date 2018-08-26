@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LabsCM20182</string>
+    <string name="Main_name">HOME</string>
+    <string name="Foods_name">FOODS</string>
+    <string name="Drinks_name">DRINKS</string>
+    <string name="IconoSplashSreen">SplashScreen</string>
+    <string name="INICIO">Start</string>
+    <string name="IconoSplash_Screen">IconSplash_Screen</string>
+    <string name="OPEN">Open</string>
+    <string name="SAVE">Save</string>
+    <string name="CLEAR">Clear</string>
+    <string name="TextVName">Name</string>
+    <string name="TextVScheduler">Scheduler</string>
+    <string name="TextVType">Type</string>
+    <string name="TextVTime">Time</string>
+    <string name="TextVPrice">Price</string>
+    <string name="TextVIngredients">Ingredients</string>
+    <string name="TextVStarters">main</string>
+    <string name="Maindish">main course</string>
+    <string name="buttonFood">FOODS</string>
+    <string name="buttonDrinks">DRINKS</string>
+    <string name="CheckBoxMorning">morning</string>
+    <string name="CheckBoxAfternoon">afternoon</string>
+    <string name="CheckBoxNight">night</string>
+    <string name="Clear">Clear</string>
+    <string name="Out">Out</string>
+    <string name="Menu">Menu</string>
+    <string name="DRINK_OPEN">OPEN</string>
+    <string name="DRINK_SAVE">SAVE</string>
+    <string name="DRINK_CLEAR">CLEAR</string>
+    <string name="TextVNameD">Name</string>
+    <string name="TextVPriceD">Price</string>
+    <string name="TextVIngredientsD">Ingredients</string>
+    <string name="menu_clear">Clear</string>
+    <string name="menu_out">Out</string>
+
+</resources>
