@@ -7,4 +7,45 @@
     tools:context=".MainActivity">
 
 
+    <Button
+        android:id="@+id/butttonFood"
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_weight="1"
+        android:background="#9e0936"
+        android:text="@string/Comidas"
+        app:layout_constraintBottom_toTopOf="@+id/buttonDrink"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.53"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/buttonDrink"
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginLeft="19dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginStart="19dp"
+        android:layout_marginTop="16dp"
+        android:layout_weight="1"
+        android:background="#9e0936"
+        android:text="@string/Bebidas"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/butttonFood"
+        tools:ignore="MissingConstraints" />
+
 </android.support.constraint.ConstraintLayout>

@@ -18,7 +18,7 @@
         android:src="@drawable/bonaco" />
 
     <ProgressBar
-        android:id="@+id/barraProgreso"
+        android:id="@+id/progres_bar"
         style="?android:attr/progressBarStyleHorizontal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
