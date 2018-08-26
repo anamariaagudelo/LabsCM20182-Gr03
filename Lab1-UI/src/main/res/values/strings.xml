@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">LabsCM20182</string>
+    <string name="Main_name">Inicio</string>
+    <string name="Foods_name">Comidas</string>
+    <string name="Drinks_name">Bebidas</string>
     <string name="IconoSplashSreen">SplashScreen</string>
     <string name="INICIO">Inicio</string>
     <string name="IconoSplash_Screen">IconSplash_Screen</string>

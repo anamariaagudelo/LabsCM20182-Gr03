@@ -43,15 +43,11 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
-
     @Override
     public boolean onOptionsItemSelected(MenuItem item){
 
         int id = item.getItemId();
         switch (id){
-            case R.id.menu_clear:
-                return true;
-
             case R.id.menu_out:
                 finish();
 
