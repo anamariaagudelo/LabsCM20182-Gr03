@@ -27,5 +27,6 @@
     <string name="TextVNameD">Nombre</string>
     <string name="TextVPriceD">Precio</string>
     <string name="TextVIngredientsD">Ingredientes</string>
-
+    <string name="menu_clear">Limpiar</string>
+    <string name="menu_out">Salir</string>
 </resources>
