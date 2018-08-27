@@ -245,13 +245,12 @@
                     android:textSize="20dp"
                     tools:ignore="OnClick" />
 
-                <TextView
-                    android:id="@+id/time"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:hint="hh/mm/am"
-                    android:textColor="@color/colorPrimaryDark"
-                    android:textSize="20sp" />
+                   <EditText
+                       android:id="@+id/time"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:hint="     hh : mm" />
             </LinearLayout>
         </LinearLayout>
         <LinearLayout
